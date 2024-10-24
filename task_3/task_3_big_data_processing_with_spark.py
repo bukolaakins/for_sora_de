@@ -83,7 +83,7 @@ def aggregate_data(bike_data):
 
 
 # Main code execution
-file_path = "C:/Users/PC/Downloads/for_sora/Divvy_Trips_2014-Q3-0809.csv"
+file_path = "C:/Users/PC/Downloads/for_sora/new_york_bike_trips.csv"
 no_of_partition = 100
 bike_data = load_data(file_path)
 bike_data = parse_dates(bike_data)
