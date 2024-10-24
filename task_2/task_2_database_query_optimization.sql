@@ -3,7 +3,6 @@ Author : Olubukunola Akinsola <oo.akinsola@gmail.com>
 Date   : 2024-10-24
 Purpose: Sora Union DE Assessment - Task 2
 SQL: PostgreSQL
-"""
 */
 
 -- clickup table with partitioning by Date
